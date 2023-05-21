@@ -19,7 +19,7 @@ Let's connect and make some magic happen:
 Tech 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=40 />
           
 
 GIT Analytics
