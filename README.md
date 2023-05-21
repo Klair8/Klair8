@@ -16,7 +16,11 @@ Let's connect and make some magic happen:
 
 
 
+Tech 
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
 
 GIT Analytics
 
