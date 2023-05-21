@@ -19,3 +19,13 @@ Let's connect and make some magic happen:
 
 
 
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=thiagocal&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocal&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klair8&layout=compact&theme=github_dark"/>|
+
+
+
+
+
+
