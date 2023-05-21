@@ -16,9 +16,7 @@ Let's connect and make some magic happen:
 
 <hr>
 
-Tech 
-
-
+Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40   />
@@ -30,7 +28,8 @@ Tech
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 /> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
 
-          
+
+<hr>          
 
 GIT Analytics
 
