@@ -18,6 +18,7 @@ Let's connect and make some magic happen:
 
 
 
+GIT Analytics
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=klair8&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=klair8&theme=blueberry_duo"/>
